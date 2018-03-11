@@ -29,6 +29,10 @@ const firebase = admin.initializeApp({
 Navigate to the root folder of the project and run
 
 ```
+npm install
+```
+and after
+```
 node main.js
 ```
 
