@@ -1,7 +1,7 @@
 Run
 
 ```
-git clone https://github.com/EugeniaM/recipes-fb-database-initial.git
+git clone https://github.com/qvintrix/recipes-fb-database-initial.git
 ```
 
 To configure the script to initialize the database of your Firebase project follow the instruction
