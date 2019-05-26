@@ -1,14 +1,24 @@
 {
-  "name": "fb-initial-data",
+  "name": "techs-app",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
+    "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^5.8.2"
+    "firebase-admin": "^5.8.2",
+    "express": "~4.15.5",
+    "body-parser": "~1.18.2",
+    "nodemon": "^1.14.11",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "swagger-ui-express": "^2.0.15"
   }
 }
